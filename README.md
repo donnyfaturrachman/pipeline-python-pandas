@@ -15,9 +15,9 @@ Deskripsi: Ambil data dari API, bersihkan, dan simpan ke database.
   - Buat script Python untuk otomatisasi
 
 
-= Install env & packages python =
-sudo apt install python3-venv
-python3 -m venv python-env
-source python-env/bin/activate
-pip install requests
-pip install pandas
+> Install env & packages python
+- sudo apt install python3-venv
+- python3 -m venv python-env
+- source python-env/bin/activate
+- pip install requests
+- pip install pandas
